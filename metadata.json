@@ -1,0 +1,7 @@
+{
+  "name": "PromptUI Collector & Methodology Forge",
+  "description": "A high-end UI/UX design assistant that archives prompts, builds modular templates, and uses AI to transform design screenshots into structured creative methodologies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
